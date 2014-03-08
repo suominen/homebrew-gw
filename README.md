@@ -1,4 +1,5 @@
 homebrew-gw
 ===========
 
-Homebrew formula for GW
+Local tap for adding software that isn't otherwise available.
+
