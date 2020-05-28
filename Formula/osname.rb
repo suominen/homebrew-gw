@@ -3,7 +3,7 @@ require 'formula'
 class Osname < Formula
   homepage 'https://kimmo.suominen.com/sw/'
   url 'http://oss.gw.com/people/kim/osname-2.0.tar.gz'
-  sha1 'cb0058cfd388d3fad226ec04a4e1b332b766e417'
+  sha256 'c935eb43861dbb4a9d5b2af8faa711d65792990044113657150106fda616f401'
 
   def install
     system "make"
